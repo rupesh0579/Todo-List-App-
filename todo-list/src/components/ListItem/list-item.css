@@ -1,0 +1,18 @@
+.list-heading {
+    color: rgb(18, 29, 6);
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 60%;
+
+}
+
+.listData {
+    padding: 1rem;
+    background-color: rgb(13, 147, 165);
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-top: 5%;
+    border-radius: 10px;
+    justify-content: space-between;
+}

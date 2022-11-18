@@ -1,0 +1,13 @@
+.btn {
+    position: relative;
+    left: 36%;
+    margin-top: -49px;
+    padding: 14px 20px;
+    border-radius: 12px;
+    display: flex;
+    cursor: pointer;
+    color: rgb(249, 250, 249);
+    background-color: rgb(138, 138, 216);
+    font-weight: 600;
+    font-size: 14px;
+}
